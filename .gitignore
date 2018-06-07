@@ -1,0 +1,16 @@
+# Global Folders
+build/
+
+# Local Folders
+/.idea/
+/.gradle/
+/captures/
+
+# Global Files
+.DS_Store
+
+# Local Files
+/local.properties
+
+# Global Extensions
+*.iml

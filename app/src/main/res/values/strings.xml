@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Locale</string>
+    <string name="app_current">Default Locale = %s</string>
+    <string name="app_reopen">Reopen Activity</string>
+    <string name="app_create_webview">Create WebView</string>
+
+</resources>
